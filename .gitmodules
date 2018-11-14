@@ -1,0 +1,16 @@
+[submodule "my_plugins/NeoSolarized"]
+	path = my_plugins/NeoSolarized
+	url = https://github.com/icymind/NeoSolarized.git
+    shallow = true
+[submodule "my_plugins/rainbow"]
+	path = my_plugins/rainbow
+	url = https://github.com/luochen1990/rainbow.git
+    shallow = true
+[submodule "my_plugins/tagbar"]
+	path = my_plugins/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+    shallow = true
+[submodule "my_plugins/vim-slime.git"]
+	path = my_plugins/vim-slime.git
+	url = https://github.com/jpalardy/vim-slime.git
+    shallow = true
