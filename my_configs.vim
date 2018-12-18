@@ -66,9 +66,11 @@ set textwidth=90
 " set colorcolumn=+1
 
 " normal code style
-set expandtab
-set shiftwidth=4
-set tabstop=4
+" set expandtab
+" set shiftwidth=4
+" set tabstop=4
+
+set nofoldenable
 
 hi ColorColumn guibg=#2d2d2d ctermbg=246
 
